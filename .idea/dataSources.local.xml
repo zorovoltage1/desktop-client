@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="worldofruin@204.48.19.215" uuid="b17bc4ec-82da-42ab-9423-0ffc90b4eb15">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="MYSQL" exact-version="0.0" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>ruinadmin</user-name>
+      <ssh-properties>
+        <enabled>false</enabled>
+        <proxy-host>204.48.19.215</proxy-host>
+        <proxy-port>3306</proxy-port>
+        <secret-storage>master_key</secret-storage>
+        <user>forge</user>
+        <use-password>false</use-password>
+        <auth-type>OPEN_SSH</auth-type>
+        <private-key-path>C:\Users\Nick\.ssh\Git\id_rsa</private-key-path>
+      </ssh-properties>
+    </data-source>
+  </component>
+</project>
